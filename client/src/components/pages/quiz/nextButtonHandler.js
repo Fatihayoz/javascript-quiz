@@ -7,12 +7,15 @@ const showQuestion = (index) => {
   section.appendChild(questionText);
   const optionList = document.createElement("div");
   section.appendChild(optionList);
-  const questionTag = `<span>${data.questions[0].question}</span>`;
+  const questionTag = `<span>${data.questions[index].question}</span>`;
+  // Standardize the code
+  // const optionTagDiv = createElement("div");
+  // optionTagDiv
   const optionTag =
-    `<div class= 'option'><span>${data.questions[0].answers[0].text}</span></div>` +
-    `<div class="option"><span>${data.questions[0].answers[1].text}</span></div>` +
-    `<div class="option"><span>${data.questions[0].answers[2].text}</span></div>` +
-    `<div class="option"><span>${data.questions[0].answers[3].text}</span></div>`;
+    `<div class= 'option'><span>${data.questions[index].answers[0].text}</span></div>` +
+    `<div class="option"><span>${data.questions[index].answers[1].text}</span></div>` +
+    `<div class="option"><span>${data.questions[index].answers[2].text}</span></div>` +
+    `<div class="option"><span>${data.questions[index].answers[3].text}</span></div>`;
   questionText.innerHTML = questionTag;
   optionList.innerHTML = optionTag;
   const option = optionList.querySelectorAll(".option");
