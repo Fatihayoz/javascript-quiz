@@ -51,8 +51,8 @@
 </g>
 <g id="clust9" class="cluster">
 <title>cluster_client/src/components/shared</title>
-<path fill="#ffffff" stroke="black" stroke-width="2" d="M470.54,-525C470.54,-525 516.54,-525 516.54,-525 522.54,-525 528.54,-531 528.54,-537 528.54,-537 528.54,-597 528.54,-597 528.54,-603 522.54,-609 516.54,-609 516.54,-609 470.54,-609 470.54,-609 464.54,-609 458.54,-603 458.54,-597 458.54,-597 458.54,-537 458.54,-537 458.54,-531 464.54,-525 470.54,-525"/>
-<text text-anchor="middle" x="493.54" y="-596.9" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="9.00">shared</text>
+<path fill="#ffffff" stroke="black" stroke-width="2" d="M470.54,-509C470.54,-509 516.54,-509 516.54,-509 522.54,-509 528.54,-515 528.54,-521 528.54,-521 528.54,-581 528.54,-581 528.54,-587 522.54,-593 516.54,-593 516.54,-593 470.54,-593 470.54,-593 464.54,-593 458.54,-587 458.54,-581 458.54,-581 458.54,-521 458.54,-521 458.54,-515 464.54,-509 470.54,-509"/>
+<text text-anchor="middle" x="493.54" y="-580.9" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="9.00">shared</text>
 </g>
 <g id="clust10" class="cluster">
 <title>cluster_client/src/handlers</title>
@@ -202,19 +202,19 @@
 <g id="node10" class="node">
 <title>client/src/components/shared/button.js</title>
 <g id="a_node10"><a xlink:href="../client/src/components/shared/button.js" xlink:title="button.js">
-<path fill="#ffffcc" stroke="black" d="M514.34,-551.3C514.34,-551.3 472.74,-551.3 472.74,-551.3 469.64,-551.3 466.54,-548.2 466.54,-545.1 466.54,-545.1 466.54,-538.9 466.54,-538.9 466.54,-535.8 469.64,-532.7 472.74,-532.7 472.74,-532.7 514.34,-532.7 514.34,-532.7 517.44,-532.7 520.54,-535.8 520.54,-538.9 520.54,-538.9 520.54,-545.1 520.54,-545.1 520.54,-548.2 517.44,-551.3 514.34,-551.3"/>
-<text text-anchor="middle" x="493.54" y="-539.3" font-family="Helvetica,sans-Serif" font-size="9.00">button.js</text>
+<path fill="#ffffcc" stroke="black" d="M514.34,-566.3C514.34,-566.3 472.74,-566.3 472.74,-566.3 469.64,-566.3 466.54,-563.2 466.54,-560.1 466.54,-560.1 466.54,-553.9 466.54,-553.9 466.54,-550.8 469.64,-547.7 472.74,-547.7 472.74,-547.7 514.34,-547.7 514.34,-547.7 517.44,-547.7 520.54,-550.8 520.54,-553.9 520.54,-553.9 520.54,-560.1 520.54,-560.1 520.54,-563.2 517.44,-566.3 514.34,-566.3"/>
+<text text-anchor="middle" x="493.54" y="-554.3" font-family="Helvetica,sans-Serif" font-size="9.00">button.js</text>
 </a>
 </g>
 </g>
 <!-- client/src/components/pages/home/start&#45;button.js&#45;&gt;client/src/components/shared/button.js -->
 <g id="edge9" class="edge">
 <title>client/src/components/pages/home/start&#45;button.js&#45;&gt;client/src/components/shared/button.js</title>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M285.94,-697.99C294.91,-695.62 304.36,-692.38 312.53,-688 389.09,-646.92 386.04,-605.88 458.54,-558 460.45,-556.74 462.48,-555.52 464.55,-554.37"/>
-<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="465.77,-556.09 470.1,-551.44 463.81,-552.38 465.77,-556.09"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M285.98,-697.36C294.86,-695 304.25,-691.93 312.53,-688 380.19,-655.87 448.57,-597.32 477.81,-570.76"/>
+<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="479.47,-572.08 482.48,-566.48 476.64,-568.98 479.47,-572.08"/>
 </g>
 <!-- client/src/logic/reset&#45;quiz.js&#45;&gt;client/src/init/state.js -->
-<g id="edge44" class="edge">
+<g id="edge45" class="edge">
 <title>client/src/logic/reset&#45;quiz.js&#45;&gt;client/src/init/state.js</title>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M417.57,-251.76C429.04,-248.52 441.44,-243.33 450.54,-235 473.75,-213.77 484.9,-177.32 489.6,-156.6"/>
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="491.71,-156.77 490.91,-150.46 487.6,-155.89 491.71,-156.77"/>
@@ -289,7 +289,7 @@
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="306.22,-445.38 302.47,-450.51 308.6,-448.84 306.22,-445.38"/>
 </g>
 <!-- client/src/handlers/update&#45;score.js&#45;&gt;client/src/init/state.js -->
-<g id="edge41" class="edge">
+<g id="edge42" class="edge">
 <title>client/src/handlers/update&#45;score.js&#45;&gt;client/src/init/state.js</title>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M424.27,-118.78C432.95,-120.98 442.1,-123.44 450.54,-126 454.14,-127.09 457.89,-128.31 461.59,-129.56"/>
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="461,-131.58 467.36,-131.55 462.37,-127.61 461,-131.58"/>
@@ -304,7 +304,7 @@
 </g>
 </g>
 <!-- client/src/handlers/update&#45;score.js&#45;&gt;client/src/components/pages/quiz/score.js -->
-<g id="edge40" class="edge">
+<g id="edge41" class="edge">
 <title>client/src/handlers/update&#45;score.js&#45;&gt;client/src/components/pages/quiz/score.js</title>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M346.88,-111.35C336.85,-113.63 327.01,-117.99 320.53,-126 304.92,-145.27 328.01,-329.64 312.53,-349 305.69,-357.55 294.88,-361.85 284.27,-363.93"/>
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="283.67,-361.89 278.07,-364.91 284.32,-366.04 283.67,-361.89"/>
@@ -322,58 +322,58 @@
 <g id="node16" class="node">
 <title>client/src/components/pages/quiz/hint&#45;div.js</title>
 <g id="a_node16"><a xlink:href="../client/src/components/pages/quiz/hint-div.js" xlink:title="hint&#45;div.js">
-<path fill="#ffffcc" stroke="black" d="M406.33,-529.3C406.33,-529.3 364.74,-529.3 364.74,-529.3 361.63,-529.3 358.53,-526.2 358.53,-523.1 358.53,-523.1 358.53,-516.9 358.53,-516.9 358.53,-513.8 361.63,-510.7 364.74,-510.7 364.74,-510.7 406.33,-510.7 406.33,-510.7 409.43,-510.7 412.53,-513.8 412.53,-516.9 412.53,-516.9 412.53,-523.1 412.53,-523.1 412.53,-526.2 409.43,-529.3 406.33,-529.3"/>
-<text text-anchor="middle" x="385.53" y="-517.3" font-family="Helvetica,sans-Serif" font-size="9.00">hint&#45;div.js</text>
+<path fill="#ffffcc" stroke="black" d="M406.33,-513.3C406.33,-513.3 364.74,-513.3 364.74,-513.3 361.63,-513.3 358.53,-510.2 358.53,-507.1 358.53,-507.1 358.53,-500.9 358.53,-500.9 358.53,-497.8 361.63,-494.7 364.74,-494.7 364.74,-494.7 406.33,-494.7 406.33,-494.7 409.43,-494.7 412.53,-497.8 412.53,-500.9 412.53,-500.9 412.53,-507.1 412.53,-507.1 412.53,-510.2 409.43,-513.3 406.33,-513.3"/>
+<text text-anchor="middle" x="385.53" y="-501.3" font-family="Helvetica,sans-Serif" font-size="9.00">hint&#45;div.js</text>
 </a>
 </g>
 </g>
 <!-- client/src/components/pages/quiz/hint&#45;div.js&#45;&gt;client/src/components/shared/button.js -->
 <g id="edge12" class="edge">
 <title>client/src/components/pages/quiz/hint&#45;div.js&#45;&gt;client/src/components/shared/button.js</title>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M412.74,-525.44C427.14,-528.43 445.12,-532.16 460.36,-535.32"/>
-<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="459.97,-537.39 466.27,-536.55 460.83,-533.27 459.97,-537.39"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M404.5,-513.45C419.01,-521.03 440.01,-531.88 458.54,-541 461.19,-542.3 463.95,-543.64 466.72,-544.96"/>
+<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="466.03,-546.96 472.35,-547.64 467.83,-543.17 466.03,-546.96"/>
 </g>
 <!-- client/src/components/shared/div.js -->
 <g id="node17" class="node">
 <title>client/src/components/shared/div.js</title>
 <g id="a_node17"><a xlink:href="../client/src/components/shared/div.js" xlink:title="div.js">
-<path fill="#ffffcc" stroke="black" d="M514.34,-582.3C514.34,-582.3 472.74,-582.3 472.74,-582.3 469.64,-582.3 466.54,-579.2 466.54,-576.1 466.54,-576.1 466.54,-569.9 466.54,-569.9 466.54,-566.8 469.64,-563.7 472.74,-563.7 472.74,-563.7 514.34,-563.7 514.34,-563.7 517.44,-563.7 520.54,-566.8 520.54,-569.9 520.54,-569.9 520.54,-576.1 520.54,-576.1 520.54,-579.2 517.44,-582.3 514.34,-582.3"/>
-<text text-anchor="middle" x="493.54" y="-570.3" font-family="Helvetica,sans-Serif" font-size="9.00">div.js</text>
+<path fill="#ffffcc" stroke="black" d="M514.34,-535.3C514.34,-535.3 472.74,-535.3 472.74,-535.3 469.64,-535.3 466.54,-532.2 466.54,-529.1 466.54,-529.1 466.54,-522.9 466.54,-522.9 466.54,-519.8 469.64,-516.7 472.74,-516.7 472.74,-516.7 514.34,-516.7 514.34,-516.7 517.44,-516.7 520.54,-519.8 520.54,-522.9 520.54,-522.9 520.54,-529.1 520.54,-529.1 520.54,-532.2 517.44,-535.3 514.34,-535.3"/>
+<text text-anchor="middle" x="493.54" y="-523.3" font-family="Helvetica,sans-Serif" font-size="9.00">div.js</text>
 </a>
 </g>
 </g>
 <!-- client/src/components/pages/quiz/hint&#45;div.js&#45;&gt;client/src/components/shared/div.js -->
 <g id="edge13" class="edge">
 <title>client/src/components/pages/quiz/hint&#45;div.js&#45;&gt;client/src/components/shared/div.js</title>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M404.5,-529.45C419.01,-537.03 440.01,-547.88 458.54,-557 461.19,-558.3 463.95,-559.64 466.72,-560.96"/>
-<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="466.03,-562.96 472.35,-563.64 467.83,-559.17 466.03,-562.96"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M412.74,-509.44C427.14,-512.43 445.12,-516.16 460.36,-519.32"/>
+<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="459.97,-521.39 466.27,-520.55 460.83,-517.27 459.97,-521.39"/>
 </g>
 <!-- client/src/components/pages/quiz/hint&#45;panel.js -->
 <g id="node18" class="node">
 <title>client/src/components/pages/quiz/hint&#45;panel.js</title>
 <g id="a_node18"><a xlink:href="../client/src/components/pages/quiz/hint-panel.js" xlink:title="hint&#45;panel.js">
-<path fill="#ffffcc" stroke="black" d="M276.58,-529.3C276.58,-529.3 224.96,-529.3 224.96,-529.3 221.86,-529.3 218.76,-526.2 218.76,-523.1 218.76,-523.1 218.76,-516.9 218.76,-516.9 218.76,-513.8 221.86,-510.7 224.96,-510.7 224.96,-510.7 276.58,-510.7 276.58,-510.7 279.68,-510.7 282.78,-513.8 282.78,-516.9 282.78,-516.9 282.78,-523.1 282.78,-523.1 282.78,-526.2 279.68,-529.3 276.58,-529.3"/>
-<text text-anchor="middle" x="250.77" y="-517.3" font-family="Helvetica,sans-Serif" font-size="9.00">hint&#45;panel.js</text>
+<path fill="#ffffcc" stroke="black" d="M276.58,-498.3C276.58,-498.3 224.96,-498.3 224.96,-498.3 221.86,-498.3 218.76,-495.2 218.76,-492.1 218.76,-492.1 218.76,-485.9 218.76,-485.9 218.76,-482.8 221.86,-479.7 224.96,-479.7 224.96,-479.7 276.58,-479.7 276.58,-479.7 279.68,-479.7 282.78,-482.8 282.78,-485.9 282.78,-485.9 282.78,-492.1 282.78,-492.1 282.78,-495.2 279.68,-498.3 276.58,-498.3"/>
+<text text-anchor="middle" x="250.77" y="-486.3" font-family="Helvetica,sans-Serif" font-size="9.00">hint&#45;panel.js</text>
 </a>
 </g>
 </g>
 <!-- client/src/components/pages/quiz/hint&#45;panel.js&#45;&gt;client/src/init/state.js -->
 <g id="edge14" class="edge">
 <title>client/src/components/pages/quiz/hint&#45;panel.js&#45;&gt;client/src/init/state.js</title>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M283.01,-516.28C293.12,-513.95 303.92,-510.16 312.53,-504 402.74,-439.43 404.78,-397.06 450.54,-296 472.48,-247.56 485.04,-185.27 490.02,-156.65"/>
-<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="492.14,-156.71 491.07,-150.44 488,-156.01 492.14,-156.71"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M283.06,-484.82C293.05,-482.46 303.78,-478.76 312.53,-473 395.8,-418.08 405.95,-385.23 450.54,-296 474.31,-248.44 485.98,-185.72 490.38,-156.82"/>
+<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="492.51,-156.79 491.3,-150.55 488.35,-156.18 492.51,-156.79"/>
 </g>
 <!-- client/src/components/pages/quiz/hint&#45;panel.js&#45;&gt;client/src/components/pages/quiz/hint&#45;div.js -->
 <g id="edge16" class="edge">
 <title>client/src/components/pages/quiz/hint&#45;panel.js&#45;&gt;client/src/components/pages/quiz/hint&#45;div.js</title>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M282.9,-520C303.82,-520 331.34,-520 352.46,-520"/>
-<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="352.51,-522.1 358.51,-520 352.51,-517.9 352.51,-522.1"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M282.9,-492.52C303.82,-494.88 331.34,-497.99 352.46,-500.38"/>
+<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="352.32,-502.47 358.51,-501.06 352.79,-498.3 352.32,-502.47"/>
 </g>
 <!-- client/src/components/pages/quiz/hint&#45;panel.js&#45;&gt;client/src/components/shared/div.js -->
 <g id="edge15" class="edge">
 <title>client/src/components/pages/quiz/hint&#45;panel.js&#45;&gt;client/src/components/shared/div.js</title>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M273.07,-529.36C286.47,-534.91 304.24,-541.69 320.53,-546 368.26,-558.63 425.11,-566.13 460.01,-569.91"/>
-<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="460.07,-572.03 466.26,-570.57 460.52,-567.85 460.07,-572.03"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M282.94,-492.32C293.15,-494.62 304.05,-498.49 312.53,-505 318.21,-509.36 314.4,-515.28 320.53,-519 363.26,-544.98 423.62,-539.99 460.3,-533.41"/>
+<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="460.92,-535.43 466.43,-532.26 460.14,-531.31 460.92,-535.43"/>
 </g>
 <!-- client/src/components/pages/quiz/index.js -->
 <g id="node19" class="node">
@@ -387,7 +387,7 @@
 <!-- client/src/components/pages/quiz/index.js&#45;&gt;client/src/init/state.js -->
 <g id="edge17" class="edge">
 <title>client/src/components/pages/quiz/index.js&#45;&gt;client/src/init/state.js</title>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M153.96,-417.35C162.44,-403.05 177.66,-375.08 184.01,-349 191.54,-318.09 175.29,-86.24 197.01,-63 206.65,-52.69 440.06,-39.56 450.54,-49 463.17,-60.36 448.71,-111.16 458.54,-125 459.31,-126.08 460.17,-127.08 461.1,-128.02"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M153.96,-417.35C162.44,-403.05 177.66,-375.08 184.01,-349 191.54,-318.09 175.29,-86.24 197.01,-63 216.28,-42.39 429.58,-30.12 450.54,-49 463.17,-60.36 448.71,-111.16 458.54,-125 459.31,-126.08 460.17,-127.08 461.1,-128.02"/>
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="460.27,-130.06 466.26,-132.2 462.91,-126.79 460.27,-130.06"/>
 </g>
 <!-- client/src/components/pages/quiz/index.js&#45;&gt;client/src/components/pages/quiz/back&#45;button.js -->
@@ -399,8 +399,8 @@
 <!-- client/src/components/pages/quiz/index.js&#45;&gt;client/src/components/pages/quiz/hint&#45;panel.js -->
 <g id="edge19" class="edge">
 <title>client/src/components/pages/quiz/index.js&#45;&gt;client/src/components/pages/quiz/hint&#45;panel.js</title>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M151.42,-436.34C157.81,-452.55 173.16,-485.89 197.01,-504 201.76,-507.6 207.32,-510.4 213.01,-512.57"/>
-<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="212.37,-514.57 218.72,-514.54 213.73,-510.6 212.37,-514.57"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M155.7,-436.46C164.61,-446.84 180.24,-463.31 197.01,-473 201.88,-475.81 207.29,-478.18 212.74,-480.15"/>
+<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="212.29,-482.22 218.65,-482.14 213.63,-478.24 212.29,-482.22"/>
 </g>
 <!-- client/src/components/pages/quiz/nextButton.js -->
 <g id="node20" class="node">
@@ -427,16 +427,16 @@
 <g id="node22" class="node">
 <title>client/src/components/pages/quiz/restart&#45;button.js</title>
 <g id="a_node22"><a xlink:href="../client/src/components/pages/quiz/restart-button.js" xlink:title="restart&#45;button.js">
-<path fill="#ffffcc" stroke="black" d="M283.58,-498.3C283.58,-498.3 217.96,-498.3 217.96,-498.3 214.86,-498.3 211.76,-495.2 211.76,-492.1 211.76,-492.1 211.76,-485.9 211.76,-485.9 211.76,-482.8 214.86,-479.7 217.96,-479.7 217.96,-479.7 283.58,-479.7 283.58,-479.7 286.68,-479.7 289.78,-482.8 289.78,-485.9 289.78,-485.9 289.78,-492.1 289.78,-492.1 289.78,-495.2 286.68,-498.3 283.58,-498.3"/>
-<text text-anchor="middle" x="250.77" y="-486.3" font-family="Helvetica,sans-Serif" font-size="9.00">restart&#45;button.js</text>
+<path fill="#ffffcc" stroke="black" d="M283.58,-529.3C283.58,-529.3 217.96,-529.3 217.96,-529.3 214.86,-529.3 211.76,-526.2 211.76,-523.1 211.76,-523.1 211.76,-516.9 211.76,-516.9 211.76,-513.8 214.86,-510.7 217.96,-510.7 217.96,-510.7 283.58,-510.7 283.58,-510.7 286.68,-510.7 289.78,-513.8 289.78,-516.9 289.78,-516.9 289.78,-523.1 289.78,-523.1 289.78,-526.2 286.68,-529.3 283.58,-529.3"/>
+<text text-anchor="middle" x="250.77" y="-517.3" font-family="Helvetica,sans-Serif" font-size="9.00">restart&#45;button.js</text>
 </a>
 </g>
 </g>
 <!-- client/src/components/pages/quiz/index.js&#45;&gt;client/src/components/pages/quiz/restart&#45;button.js -->
 <g id="edge22" class="edge">
 <title>client/src/components/pages/quiz/index.js&#45;&gt;client/src/components/pages/quiz/restart&#45;button.js</title>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M155.7,-436.46C164.61,-446.84 180.24,-463.31 197.01,-473 199.86,-474.65 202.9,-476.14 206.01,-477.49"/>
-<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="205.35,-479.49 211.7,-479.77 206.91,-475.59 205.35,-479.49"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M151.42,-436.34C157.81,-452.55 173.16,-485.89 197.01,-504 199.73,-506.06 202.71,-507.86 205.83,-509.43"/>
+<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="205.24,-511.46 211.57,-512.01 206.96,-507.63 205.24,-511.46"/>
 </g>
 <!-- client/src/components/pages/quiz/index.js&#45;&gt;client/src/components/pages/quiz/score.js -->
 <g id="edge23" class="edge">
@@ -489,14 +489,14 @@
 <!-- client/src/components/pages/quiz/restart&#45;button.js&#45;&gt;client/src/logic/reset&#45;quiz.js -->
 <g id="edge30" class="edge">
 <title>client/src/components/pages/quiz/restart&#45;button.js&#45;&gt;client/src/logic/reset&#45;quiz.js</title>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M290.01,-486.5C298.63,-484.08 306.89,-479.94 312.53,-473 323.67,-459.27 312.88,-329.95 320.53,-314 329.57,-295.12 348.01,-279.77 362.79,-269.78"/>
-<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="364.17,-271.38 368.04,-266.34 361.87,-267.87 364.17,-271.38"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M290.05,-517.53C298.67,-515.11 306.92,-510.97 312.53,-504 325.77,-487.54 311.47,-333.09 320.53,-314 329.49,-295.08 347.94,-279.74 362.74,-269.76"/>
+<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="364.12,-271.36 368,-266.32 361.83,-267.84 364.12,-271.36"/>
 </g>
 <!-- client/src/components/pages/quiz/restart&#45;button.js&#45;&gt;client/src/components/shared/button.js -->
 <g id="edge31" class="edge">
 <title>client/src/components/pages/quiz/restart&#45;button.js&#45;&gt;client/src/components/shared/button.js</title>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M289.99,-492.64C298.3,-495.06 306.42,-498.92 312.53,-505 322.3,-514.74 309.76,-526.37 320.53,-535 331.13,-543.5 413.46,-543.45 460.27,-542.72"/>
-<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="460.38,-544.82 466.35,-542.61 460.31,-540.62 460.38,-544.82"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M289.92,-526.86C299.87,-528.59 310.59,-530.41 320.53,-532 369.06,-539.76 425.46,-547.76 460.08,-552.56"/>
+<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="460.05,-554.68 466.28,-553.42 460.62,-550.52 460.05,-554.68"/>
 </g>
 <!-- client/src/components/pages/quiz/submit&#45;button.js&#45;&gt;client/src/handlers/update&#45;score.js -->
 <g id="edge33" class="edge">
@@ -520,13 +520,19 @@
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="325.48,-93.52 329.33,-88.46 323.17,-90.02 325.48,-93.52"/>
 </g>
 <!-- client/src/handlers/nextButtonHandler.js&#45;&gt;client/src/init/state.js -->
-<g id="edge37" class="edge">
+<g id="edge38" class="edge">
 <title>client/src/handlers/nextButtonHandler.js&#45;&gt;client/src/init/state.js</title>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M426.65,-162.61C434.61,-160.57 442.87,-158.32 450.54,-156 454.14,-154.91 457.89,-153.69 461.59,-152.44"/>
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="462.37,-154.39 467.36,-150.45 461,-150.42 462.37,-154.39"/>
 </g>
-<!-- client/src/handlers/nextButtonHandler.js&#45;&gt;client/src/components/pages/quiz/quiz&#45;question&#45;panel.js -->
+<!-- client/src/handlers/nextButtonHandler.js&#45;&gt;client/src/components/pages/quiz/hint&#45;panel.js -->
 <g id="edge36" class="edge">
+<title>client/src/handlers/nextButtonHandler.js&#45;&gt;client/src/components/pages/quiz/hint&#45;panel.js</title>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M367.09,-181.36C351.73,-190.68 330.34,-206.52 320.53,-227 308.71,-251.66 329.57,-451.61 312.53,-473 306.67,-480.35 297.88,-484.56 288.79,-486.92"/>
+<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="288.22,-484.89 282.8,-488.22 289.1,-489 288.22,-484.89"/>
+</g>
+<!-- client/src/handlers/nextButtonHandler.js&#45;&gt;client/src/components/pages/quiz/quiz&#45;question&#45;panel.js -->
+<g id="edge37" class="edge">
 <title>client/src/handlers/nextButtonHandler.js&#45;&gt;client/src/components/pages/quiz/quiz&#45;question&#45;panel.js</title>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M359.13,-181.34C345.14,-187.91 328.95,-198.21 320.53,-213 307.92,-235.12 328.42,-422.11 312.53,-442 311.04,-443.86 309.37,-445.51 307.56,-446.99"/>
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="306.2,-445.37 302.44,-450.49 308.58,-448.83 306.2,-445.37"/>
@@ -543,23 +549,23 @@
 <!-- client/src/components/pages/quiz/quiz&#45;buttons.js&#45;&gt;client/src/components/shared/button.js -->
 <g id="edge27" class="edge">
 <title>client/src/components/pages/quiz/quiz&#45;buttons.js&#45;&gt;client/src/components/shared/button.js</title>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M159.63,-529.45C168.02,-537.01 178.75,-548.41 184.01,-561 191.83,-579.7 182.17,-729.18 197.01,-743 215.8,-760.49 288.41,-751.79 312.53,-743 387.81,-715.56 412.58,-697.56 450.54,-627 465.17,-599.81 440.53,-583.07 458.54,-558 459.32,-556.93 460.18,-555.92 461.11,-554.99"/>
-<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="462.93,-556.22 466.28,-550.82 460.29,-552.95 462.93,-556.22"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M159.64,-529.44C168.03,-537.01 178.77,-548.41 184.01,-561 192.18,-580.64 181.47,-737.48 197.01,-752 234.53,-787.05 263.84,-768.29 312.53,-752 385.36,-727.63 402.32,-707.78 450.54,-648 469.39,-624.64 481.91,-591.44 488.07,-572.27"/>
+<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="490.14,-572.7 489.91,-566.34 486.13,-571.45 490.14,-572.7"/>
 </g>
 <!-- client/src/components/pages/quiz/quiz&#45;buttons.js&#45;&gt;client/src/components/shared/div.js -->
 <g id="edge28" class="edge">
 <title>client/src/components/pages/quiz/quiz&#45;buttons.js&#45;&gt;client/src/components/shared/div.js</title>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M159.64,-529.44C168.03,-537.01 178.77,-548.41 184.01,-561 192.18,-580.64 181.47,-737.48 197.01,-752 239.51,-791.71 411.25,-729.88 450.54,-687 476.6,-658.57 486.86,-612.61 490.6,-588.65"/>
-<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="492.7,-588.75 491.49,-582.51 488.55,-588.15 492.7,-588.75"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M159.63,-529.45C168.02,-537.01 178.75,-548.41 184.01,-561 191.83,-579.7 182.17,-729.18 197.01,-743 215.8,-760.49 289.65,-754.65 312.53,-743 410.91,-692.87 373.47,-612.39 458.54,-542 460.05,-540.75 461.67,-539.58 463.36,-538.48"/>
+<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="464.48,-540.25 468.58,-535.39 462.34,-536.64 464.48,-540.25"/>
 </g>
 <!-- client/src/handlers/submit&#45;button&#45;handler.js&#45;&gt;client/src/init/state.js -->
-<g id="edge39" class="edge">
+<g id="edge40" class="edge">
 <title>client/src/handlers/submit&#45;button&#45;handler.js&#45;&gt;client/src/init/state.js</title>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M441.79,-88.41C444.97,-90.25 447.93,-92.43 450.54,-95 460.38,-104.68 449.7,-114.41 458.54,-125 459.36,-125.98 460.25,-126.9 461.19,-127.76"/>
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="460.28,-129.71 466.33,-131.67 462.82,-126.37 460.28,-129.71"/>
 </g>
 <!-- client/src/handlers/submit&#45;button&#45;handler.js&#45;&gt;client/src/components/pages/quiz/div&#45;results.js -->
-<g id="edge38" class="edge">
+<g id="edge39" class="edge">
 <title>client/src/handlers/submit&#45;button&#45;handler.js&#45;&gt;client/src/components/pages/quiz/div&#45;results.js</title>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M331.95,-88.42C327.9,-90.24 324.03,-92.41 320.53,-95 226.13,-164.72 274.74,-246.58 184.01,-321 183.91,-321.08 183.81,-321.17 183.7,-321.25"/>
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="182.47,-319.55 178.69,-324.66 184.83,-323.02 182.47,-319.55"/>
@@ -583,7 +589,7 @@
 </g>
 </g>
 <!-- client/src/init/index.js&#45;&gt;client/src/init/router.js -->
-<g id="edge42" class="edge">
+<g id="edge43" class="edge">
 <title>client/src/init/index.js&#45;&gt;client/src/init/router.js</title>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M520.7,-110C526.31,-110 532.31,-110 538.13,-110"/>
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="538.34,-112.1 544.34,-110 538.34,-107.9 538.34,-112.1"/>
@@ -598,31 +604,31 @@
 </g>
 </g>
 <!-- client/src/init/router.js&#45;&gt;client/src/routes.js -->
-<g id="edge43" class="edge">
+<g id="edge44" class="edge">
 <title>client/src/init/router.js&#45;&gt;client/src/routes.js</title>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M559.33,-100.58C531.82,-78.45 457.97,-25 386.53,-25 249.77,-25 249.77,-25 249.77,-25 209.01,-25 218.17,-65.17 197.01,-100 141.39,-191.58 117.93,-211.72 86,-314 57.18,-406.3 52.74,-523.84 52.09,-565.5"/>
-<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="49.99,-565.5 52.02,-571.53 54.19,-565.55 49.99,-565.5"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M558.75,-100.55C538.13,-84.55 493.59,-52.27 450.54,-36 423.54,-25.79 415.4,-25 386.53,-25 249.77,-25 249.77,-25 249.77,-25 102.13,-25 123.26,-171.15 86,-314 61.64,-407.37 54.46,-523.84 52.59,-565.39"/>
+<polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="50.48,-565.53 52.33,-571.61 54.68,-565.71 50.48,-565.53"/>
 </g>
 <!-- client/src/routes.js&#45;&gt;client/src/components/layout/page.js -->
-<g id="edge45" class="edge">
+<g id="edge46" class="edge">
 <title>client/src/routes.js&#45;&gt;client/src/components/layout/page.js</title>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M51.86,-590.56C51.91,-616.9 54.94,-691.93 86,-743 95.17,-758.08 110.71,-770.58 123.68,-779.18"/>
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="122.87,-781.15 129.05,-782.62 125.13,-777.62 122.87,-781.15"/>
 </g>
 <!-- client/src/routes.js&#45;&gt;client/src/components/pages/home/index.js -->
-<g id="edge46" class="edge">
+<g id="edge47" class="edge">
 <title>client/src/routes.js&#45;&gt;client/src/components/pages/home/index.js</title>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M58.23,-590.57C64.36,-599.31 74.46,-612.06 86,-620 94.4,-625.78 104.51,-630.25 114.01,-633.6"/>
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="113.47,-635.63 119.83,-635.54 114.8,-631.65 113.47,-635.63"/>
 </g>
 <!-- client/src/routes.js&#45;&gt;client/src/components/pages/questions/index.js -->
-<g id="edge47" class="edge">
+<g id="edge48" class="edge">
 <title>client/src/routes.js&#45;&gt;client/src/components/pages/questions/index.js</title>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M78.19,-581C89.19,-581 102.1,-581 113.68,-581"/>
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="113.96,-583.1 119.96,-581 113.96,-578.9 113.96,-583.1"/>
 </g>
 <!-- client/src/routes.js&#45;&gt;client/src/components/pages/quiz/index.js -->
-<g id="edge48" class="edge">
+<g id="edge49" class="edge">
 <title>client/src/routes.js&#45;&gt;client/src/components/pages/quiz/index.js</title>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" d="M55.5,-571.28C61.02,-556.47 72.51,-527.59 86,-505 100.16,-481.28 120.38,-456.4 133.35,-441.29"/>
 <polygon fill="#000000" fill-opacity="0.200000" stroke="#000000" stroke-width="2" stroke-opacity="0.200000" points="135.11,-442.47 137.45,-436.56 131.93,-439.72 135.11,-442.47"/>
