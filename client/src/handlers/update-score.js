@@ -37,7 +37,19 @@ export const updateScore = () => {
   // check if all "correct"  and no "wrong" options were chosen.
   // if everything is correct, user gets 1 score.
   if (checkedCorrect === questionLength) {
-    state.currentScore += 1;
+    // state.currentScore += 1;
+    state.questions[state.indexOfRenderedQuestion].answered = true;
+    console.log(state.questions[state.indexOfRenderedQuestion].answered);
+  } else {
+    state.questions[state.indexOfRenderedQuestion].answered = false;
+  }
+
+  state.currentScore = 0;
+  for (const question of state.questions) {
+    if (question.answered === true) {
+      state.currentScore += 1;
+    }
+    console.log(state.currentScore);
   }
 
   renderScore(state.currentScore);
